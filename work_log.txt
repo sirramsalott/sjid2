@@ -1,0 +1,8 @@
+11/02/2017 14:00 - 16:30 Initial reading and extracting data from databases
+16/02/2017 17:30 - 18:30 More of the above, and working out expected data volumes
+19/02/2017 17:00 - 19:00 Participant values and actually making the new database
+23/02/2017 17:00 - 18:00 Comparing bookrunners
+27/02/2017 17:45 - 19:45 Comparing bookrunners & reading acquisitions
+28/02/2017 19:30 - 20:00 A little on string edit distance
+02/03/2017 17:45 - 20:15 SQL
+06/03/2017 18:00 - 19:30 Refactoring, since it is all a horrible mess
